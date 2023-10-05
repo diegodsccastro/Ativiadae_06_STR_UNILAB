@@ -1,6 +1,6 @@
 # Introdução ao Processamento de Dados em Tempo Real com Spark Structured Streaming e Apache Kafka
 
-## O Que é Processamento de Dados em Tempo Real?
+## O que é processamento de dados em tempo real?
 
 O processamento de dados em tempo real lida com a captura e processamento contínuo de fluxos de dados em tempo real. Isso permite gerar relatórios instantâneos ou tomar ações automatizadas com base nos eventos que ocorrem em tempo real.
 
